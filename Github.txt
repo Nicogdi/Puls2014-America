@@ -1,1 +1,2 @@
-Esto es una prueba para ver como guarda mi repositorio
+Esto es una prueba para ver como guarda mi repositorio.
+Otra prueba de como realiza los cambios a tiempo real.
